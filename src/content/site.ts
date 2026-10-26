@@ -222,8 +222,6 @@ export const achievements = {
   ] as Result[],
   /** Public platforms where verified athlete/team profiles can be linked. */
   profiles: [
-    { label: "Smoothcomp", note: "ტურნირების და შედეგების პლატფორმა", url: "https://smoothcomp.com/" },
-    { label: "IBJJF", note: "საერთაშორისო ფედერაცია", url: "https://ibjjf.com/" },
     { label: "Instagram", note: "ტურნირების ფოტოები და ამბები", url: site.instagram.url },
   ],
   photos: [
